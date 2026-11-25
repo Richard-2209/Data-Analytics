@@ -1,0 +1,6 @@
+*
+!/.gitignore
+!/README.md
+!/PACKAGE_CONTENTS.md
+!/analysis.py
+!/requirements.txt
