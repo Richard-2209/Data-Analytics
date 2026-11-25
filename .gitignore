@@ -1,6 +1,7 @@
-*
-!/.gitignore
-!/README.md
-!/PACKAGE_CONTENTS.md
-!/analysis.py
-!/requirements.txt
+/data/
+/documentation/
+/.cache/
+/.presentation_build/
+__pycache__/
+*.pyc
+.DS_Store
